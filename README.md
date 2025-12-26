@@ -2,7 +2,7 @@
 
 A hands-on tutorial for learning GPU programming with Triton through three progressively complex examples. This repository contains code examples that demonstrate how to write efficient CUDA kernels using Triton's Python-like syntax.
 
-For a detailed explanation of the concepts, hardware model, and programming patterns, read the full blog post: [BLOG_URL]
+For a detailed explanation of the concepts, hardware model, and programming patterns, read the full blog post: [www.pgupta.info/blog/2025/12/triton/](!https://www.pgupta.info/blog/2025/12/triton/)
 
 ## What is Triton?
 
